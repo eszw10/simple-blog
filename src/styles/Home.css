@@ -1,0 +1,16 @@
+.home {
+    color: var(--primary-);
+}
+
+.blog-preview {
+    border: 1px solid var(--primary-);
+    border-radius: 20px;
+    padding: 0 10px;
+}
+
+.home {
+    padding: 20px 20px 0px 20px;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}

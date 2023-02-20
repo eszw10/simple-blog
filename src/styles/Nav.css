@@ -1,0 +1,25 @@
+.navbar {
+    display: flex;
+    color: var(--primary-);
+    align-items: center;
+    justify-content: space-around;
+    border-bottom: 1px solid var(--primary-);
+}
+
+ul {
+    display: flex;
+    gap: 15px;
+}
+
+li a {
+    text-decoration: none;
+    color: var(--primary-);
+    font-size: 1.3em;
+    font-weight: bold;
+}
+
+li a:hover {
+    text-decoration: underline;
+    
+}
+
