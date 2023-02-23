@@ -1,0 +1,28 @@
+{
+  "blogs": [
+    {
+      "title": "Hogwarts Legacy",
+      "body": "A game that implements Wizarding World in England \nEvere Kedevre",
+      "author": "Luigi",
+      "id": 2
+    },
+    {
+      "title": "Luigi Mansion",
+      "body": "A Haunted Mansion in the middle of the night",
+      "author": "MamaMia",
+      "id": 3
+    },
+    {
+      "title": "The Crusio spell",
+      "body": "This is the first curse spell to learn at Hogwarts",
+      "author": "Yoshi",
+      "id": 4
+    },
+    {
+      "title": "Ulunnuha",
+      "body": "G atau kok tanya saya",
+      "author": "Yoshi",
+      "id": 5
+    }
+  ]
+}
